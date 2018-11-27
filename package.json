@@ -1,0 +1,11 @@
+{
+  "name": "vue-multiproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "sh ./install.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
